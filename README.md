@@ -26,14 +26,19 @@ income         : This is the target variable, indicating whether the individual 
 
 ## Histograms for numerical features
 <img width="811" alt="Screenshot 2025-02-08 at 10 29 02 PM" src="https://github.com/user-attachments/assets/af3be8ef-23f3-4f25-bfc1-6c1ee94db0af" />
+
 ## Density Plot
 <img width="811" alt="Screenshot 2025-02-08 at 10 30 12 PM" src="https://github.com/user-attachments/assets/8b2db8a1-2858-478f-9e5d-3603026e476f" />
+
 ## Income Category Distribution
 <img width="811" alt="Screenshot 2025-02-08 at 10 30 47 PM" src="https://github.com/user-attachments/assets/dda85e8a-42e5-4094-b8ff-c2b95b9b5667" />
+
 ## Heat Map for Features
 <img width="811" alt="Screenshot 2025-02-08 at 10 31 10 PM" src="https://github.com/user-attachments/assets/1d38c71c-7656-46ea-9195-85a760db79fe" />
+
 ## Comparison of Models: Accuracy Score
 <img width="811" alt="Screenshot 2025-02-08 at 10 31 56 PM" src="https://github.com/user-attachments/assets/24151cc4-5e24-4d32-bd5c-876a18841d96" />
+
 ## Comparison of Models: Accuracy Score after GridSearchCV
 <img width="811" alt="Screenshot 2025-02-08 at 10 32 18 PM" src="https://github.com/user-attachments/assets/ff64200b-43c2-4054-8b4f-24ae2e1954f9" />
 
